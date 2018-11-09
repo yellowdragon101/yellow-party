@@ -21,7 +21,7 @@ class Location:
         return self.name + " (" + str(self.x) + ", " + str(self.y) + ")"
 
     def get_neighbors(self):
-        locnames= []
+        locnames = []
         for loc in self.neighbors:
             locnames.append(loc.name) 
         return locnames
