@@ -1,0 +1,30 @@
+-make world 
+	-locations, events, loot and stuff idk
+-basic bot stuff
+	-changeable prefix
+	-help displaying actions and their desc. 
+		-north (move north) (aliases: n)
+		-search (searches area) (aliases:
+		-take ?? (grabs loot) (
+		-map (brings up map) (
+			-make and add a cool map with each location marked and it says you are here in an embed or smth
+		-etc
+	-
+
+-user 1: !command that starts the game
+-something about 1/2 players
+-user 2: !command that starts the game
+-something about 2/2 players starting game
+
+-dm user 1 about options for the game
+	-loot disappears or stays when user collects it
+	-
+-dm user 2 sending him the chosen options
+-start
+-drop users in random locations
+-have them go around and do stuff
+-user arrives at arena
+-waiting for players
+-other user arrives
+-turn-based fight using items from adventure
+-someone wins UmiYay
